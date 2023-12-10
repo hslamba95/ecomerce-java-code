@@ -10,6 +10,7 @@ This is a simple Java e-commerce application that demonstrates order processing 
 - [Database Configuration](#database-configuration)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
+- [UI](#ui)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -78,6 +79,9 @@ Get Order Status:
 Endpoint: GET /orders/status
 Description: Get the status of an order.
 Add more endpoints as needed.
+
+## UI
+OrderComponent.js is present in the ui folder
 
 ## Contributing
 If you would like to contribute to this project, feel free to open an issue or submit a pull request.
